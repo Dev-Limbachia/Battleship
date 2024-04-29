@@ -27,7 +27,7 @@ Battleship is a classic two-player strategy game where each player tries to sink
 
 ## Technologies Used
 - Java
-- Mockito (for testing)
+- JUnit (for testing)
 
 ## How to Run
 1. Clone the repository to your local machine.
